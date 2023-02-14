@@ -8,6 +8,7 @@
   
   .tip span {
     color: #ecfa00;
+    
   }
   
   .wordContainer {
@@ -15,6 +16,7 @@
     padding: 1.5em;
     border: 20px solid #ecfa00;
     display: flex;
+    border-radius: 5px;
   }
   
   .letter,
